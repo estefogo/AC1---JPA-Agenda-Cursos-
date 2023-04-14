@@ -1,4 +1,4 @@
-# AC1---JPA-Agenda-Cursos-
+# AC1: JPA - AgendaCursos
 AC1 - Arquitetura Web (Atividade 2)
 
 Dupla:
