@@ -1,5 +1,5 @@
 # AC1: JPA - AgendaCursos
-AC1 - Arquitetura Web (Atividade 2)
+<h2>AC1 - Arquitetura Web (Atividade 2)</h2>
 
 Dupla:
 Nome: Rafaela Mendonça Estefogo
